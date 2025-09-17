@@ -4,10 +4,9 @@ Rasoi Raja is a project designed to [briefly describe what your project does, e.
 
 ## Features
 
-- [Feature 1: e.g., "User-friendly recipe management"]
-- [Feature 2: e.g., "Ingredient tracking and shopping list"]
-- [Feature 3: e.g., "Meal scheduling and reminders"]
-- [Add more features here as needed]
+- [Feature 1:  "User-friendly recipe management"]
+- [Feature 2:  "Ingredient tracking and shopping list"]
+- [Feature 3:  "Meal scheduling and reminders"]
 
 ## Installation
 
